@@ -1,6 +1,6 @@
 # User Management System
-A simple CRUD application, where one can create, update, read and delete users. 
-It's a learning project built using `nodejs`, `express` and `mongo db`.
+#### A simple CRUD application, where one can create, update, read and delete users. 
+#### It's a learning project built using `nodejs`, `express` and `mongo db`.
 
 ## Preview of the application
 ### All users
